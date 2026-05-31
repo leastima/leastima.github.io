@@ -13,12 +13,10 @@ A few things that make life worth living.
 One Hundred Years of Solitude
 
 **Favorite Game**  
-Arknights 
-Pokemon 
+Arknights / Pokemon 
 
 **Favorite Anime**  
-From the New World 
-Yuri on Ice
+From the New World / Yuri on Ice
 
 **Favorite Band**  
 8 Immortals Restaurant
