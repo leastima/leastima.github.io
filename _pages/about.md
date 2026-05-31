@@ -24,6 +24,10 @@ Yuxin Wang\*, Yuanzhe Hu\*, Xiaokun Zhong\*, Xiaopeng Wang\*, Haiquan Lu, Tianyu
 *International Conference on Machine Learning (ICML), 2026*  
 [\[Paper\]](https://arxiv.org/abs/2605.29153) [\[Code\]](https://github.com/leastima/sciml_multi_regime)
 
+## Contact
+
+ruangyx@gmail.com / ywan1150@jh.edu
+
 ## Other
 
 I enjoy reading various kinds of novels! My happiness comes from building imagination within reality and seeking reality within those fantasies. Actually, I'm trying to make my life becomes an adventure novel and my future research becomes a detective novel. 
