@@ -10,22 +10,26 @@ A few things that make life worth living.
 ---
 
 **Favorite Book**  
-*One Hundred Years of Solitude* — Gabriel García Márquez  
-A novel that makes reality feel like a dream and dreams feel inevitable.
+One Hundred Years of Solitude
 
 **Favorite Game**  
-*Arknights*  
-Dystopian world, strategic depth, and a surprising amount of lore to lose yourself in.
+Arknights 
+Pokemon 
 
 **Favorite Anime**  
-*From the New World (Shinsekai yori)*  
-Quietly one of the most unsettling and beautiful things I've ever watched.
+From the New World 
+Yuri on Ice
 
 **Favorite Band**  
-八仙饭店 (Baxian Fandian)
+8 Immortals Restaurant
 
 **Favorite Food**  
-烤冷面 — the greatest street food humanity has ever produced.
+Fried cold noodles
 
 **Favorite Person**  
-Myself. Someone has to be.
+Myself
+
+**Favorite Animal**  
+Money
+
+![Money](/images/money.jpg)
