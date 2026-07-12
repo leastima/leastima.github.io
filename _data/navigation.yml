@@ -4,8 +4,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Advocations"
-    url: /advocations/
-
   - title: "Resume"
     url: /cv/
+
+  - title: "Advocations"
+    url: /advocations/
