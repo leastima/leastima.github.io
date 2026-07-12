@@ -7,8 +7,5 @@ main:
   - title: "Advocations"
     url: /advocations/
 
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
-
-  - title: "Resume (PDF)"
-    url: /files/resume4res.pdf
