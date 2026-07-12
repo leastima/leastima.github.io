@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Data Science (MSE) at the **Department of Applied Mathematics and Statistics, Johns Hopkins University** (Jan 2026 – Present). 
+I am a Master's student in Data Science (MSE) at the **Department of Applied Mathematics and Statistics, Johns Hopkins University** (Jan 2026 – Present). \[[Resume](/files/resume4res.pdf)\]
+
+
 
 Generally, I'm curious about what phenomenon is common across different kinds of models, why these phenomenon happen and how I can affect them in various ways. Specifically, my current research focuses on **Scientific Machine Learning (SciML)** —  understanding the loss landscape geometry and training dynamics of physics-informed models. 
 
