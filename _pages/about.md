@@ -11,14 +11,14 @@ I am a Master's student in Data Science (MSE) at the **Department of Applied Mat
 
 
 
-I am a curious person drawn to ideas that do more than solve a single problem. I enjoy finding stable and reusable patterns across models and tasks, understanding why they emerge, and determining when they transfer to new settings. I am especially interested in developing analysis tools that can be applied efficiently across different problems. I believe that seemingly complex model behaviors may often share simpler underlying causes, and that uncovering these causes can help us identify, understand, and address a broader range of failures.
+I am a curious person drawn to ideas that go beyond understanding and solving a single problem. I enjoy finding stable and reusable patterns across models and tasks, understanding why they emerge, and transferring them to new settings. I am also interested in developing analysis tools that can be applied efficiently across different problems. I believe that seemingly complex model behaviors may often share simpler underlying causes, and that uncovering these causes can help us identify, understand, and address a broader range of failures.
 
 My research interests include **AI for Science, model diagnostics, transfer learning, and training dynamics**. I am also beginning to explore theoretical perspectives on learning dynamics and generalization.
 
 My research experience spans several related settings:
 
 - With [Prof. Yaoqing Yang](https://web.cs.dartmouth.edu/people/yaoqing-yang) and [Pu Ren](https://paulpuren.github.io/), I work on **Scientific Machine Learning (SciML)** and **automated research**, studying loss landscapes, model diagnostics, and transfer learning across models, tasks, and capacities.
-- With [Xing Han](https://aaronhan223.github.io/), I developed a counterfactual self-evolving agent that uses targeted evidence edits and evolving memory to improve evidence-grounded reasoning across clinical prediction, fact verification, and business reasoning.
+- With [Xing Han](https://aaronhan223.github.io/), I studied counterfactual self-evolution for evidence-grounded reasoning: training a Proposer to generate targeted evidence edits and causal explanations, using Solver and Verifier feedback to distinguish beneficial corrections from harmful reversals, and accumulating validated counterfactuals as reusable memory for a frozen Solver across clinical prediction, fact verification, and business reasoning.
 - In my research engineering work with [William Walden](https://wgantt.github.io/personal-website/) and [Prof. Benjamin Van Durme](https://cs.jhu.edu/~vandurme/), I build multi-agent infrastructure for scientific claim verification, including evaluation pipelines that diagnose evidence and reasoning failures in long-horizon research.
 
 Previously, I received my B.E. in Data Science and Big Data Technology from **Tongji University** (2019–2023). Then I worked as a Software Development Engineer at **Beijing Dajia Internet Information Technology (Kuaishou)** (2023–2025), where I built performance analysis tools and maintained a JS container for large-scale mobile systems. 
