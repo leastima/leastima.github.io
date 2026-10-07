@@ -1,7 +1,7 @@
 ---
 title: "Counterfactual Self-Evolving Agents for Evidence-Grounded Reasoning"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-counterfactual-self-evolving-agents
 excerpt: "We introduce counterfactual self-evolution, in which a trainable proposer constructs targeted evidence edits and causal explanations, while accepted counterfactuals accumulate in memory to improve a frozen solver across clinical, fact-verification, and business reasoning tasks."
 date: 2026-09-26
