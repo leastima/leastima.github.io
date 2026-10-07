@@ -17,7 +17,7 @@ My research interests include **AI for Science, model diagnostics, transfer lear
 
 My research experience spans several related settings:
 
-- With [Prof. Yaoqing Yang](https://web.cs.dartmouth.edu/people/yaoqing-yang) and [Pu Ren](https://paulpuren.github.io/), I work on **Scientific Machine Learning (SciML)** and **automated research**, studying loss landscapes, model diagnostics, and transfer learning across models, tasks, and capacities.
+- With [Prof. Yaoqing Yang](https://web.cs.dartmouth.edu/people/yaoqing-yang) and [Pu Ren](https://paulpuren.github.io/), I work on **Scientific Machine Learning (SciML)** and **automated research**, studying loss landscapes, model diagnostics, and transfer learning across model capacities.
 - With [Xing Han](https://aaronhan223.github.io/), we identified failure modes in language-model reasoning and used counterfactual self-evolution to improve evidence-grounded reasoning.
 - In my research engineering work with [William Walden](https://wgantt.github.io/personal-website/) and [Prof. Benjamin Van Durme](https://cs.jhu.edu/~vandurme/), I build multi-agent infrastructure for scientific claim verification, including evaluation pipelines that diagnose evidence and reasoning failures in long-horizon research.
 
